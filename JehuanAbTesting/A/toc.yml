@@ -1,6 +1,7 @@
+metadata:
+  sample_key: sample_value
+items:
 - name: B
-  href: b/
-- name: C
-  href: C/
-- name: CPlus
-  href: C/m.md
+  href: B/
+- name: BPlus
+  href: B/m.md
