@@ -9,7 +9,8 @@
       "build_output_subfolder": "JehuanAbTesting",
       "locale": "en-us",
       "monikers": [],
-      "open_to_public_contributors": false,
+      "moniker_groups": [],
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
